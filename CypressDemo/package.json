@@ -1,0 +1,25 @@
+{
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CornellB02/cypress-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CornellB02/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/CornellB02/cypress-demo#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
